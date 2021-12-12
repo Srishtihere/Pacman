@@ -1,4 +1,4 @@
-#include "header.h"
+#include "Pacman/header.h"
 
 int writetofile(char comp[20][12])
 {
